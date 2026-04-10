@@ -1,5 +1,11 @@
 # react-native-app-auth
 
+## 8.2.0
+
+### Minor Changes
+
+- Added support for passing response_mode as an additional parameter in the config. ([`54c9b26`](https://github.com/FormidableLabs/react-native-app-auth/commit/54c9b265072b25ffb6cbc8952b2ae36c7e85f0a5))
+
 ## 8.1.0
 
 ### Minor Changes
